@@ -1,0 +1,1592 @@
+[
+  {
+    "adresse":"14 AVENUE DOCTEUR SCHWEITZER",
+    "id":35676,
+    "insee":"69282",
+    "lat":45.7676266136,
+    "lon":5.0315506699,
+    "nom":"Meyzieu Z.i.",
+    "desserte":"T3",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"116 COURS LAFAYETTE",
+    "id":47002,
+    "insee":"69383",
+    "lat":45.7636530295,
+    "lon":4.8503489517,
+    "nom":"Halles Paul Bocuse",
+    "desserte":"TB11",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"99 ROUTE DE LYON",
+    "id":190,
+    "insee":"69290",
+    "lat":45.7051414437,
+    "lon":4.9119323036,
+    "nom":"Paul Berliet",
+    "desserte":"T36",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"88 RUE DU 23 AOUT 1944",
+    "id":11744,
+    "insee":"69283",
+    "lat":45.6660320056,
+    "lon":4.9514540432,
+    "nom":"23 Ao\u00fbt 1944",
+    "desserte":"T36",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"37 RUE DE LA LIBERATION",
+    "id":11745,
+    "insee":"69283",
+    "lat":45.6590249832,
+    "lon":4.953784949,
+    "nom":"Mions Lib\u00e9ration",
+    "desserte":"T36",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"81 RUE DE LA LIBERATION",
+    "id":11747,
+    "insee":"69283",
+    "lat":45.6526380213,
+    "lon":4.9539239614,
+    "nom":"Mions Croix Rouge",
+    "desserte":"T36",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"70 RUE DU 23 AOUT 1944",
+    "id":39614,
+    "insee":"69283",
+    "lat":45.670276987,
+    "lon":4.9500709908,
+    "nom":"Parc Nelson Mandela",
+    "desserte":"T36",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"176 AVENUE JEAN JAURES",
+    "id":31663,
+    "insee":"69387",
+    "lat":45.7378761053,
+    "lon":4.8374280333,
+    "nom":"Place Jean Jaur\u00e8s",
+    "desserte":"B",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"24 COURS DE VERDUN PERRACHE",
+    "id":32102,
+    "insee":"69382",
+    "lat":45.7495992748,
+    "lon":4.8270115864,
+    "nom":"Perrache",
+    "desserte":"A,T1,T2",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"20 AVENUE ALBERT EINSTEIN",
+    "id":34067,
+    "insee":"69266",
+    "lat":45.783627066,
+    "lon":4.8831448743,
+    "nom":"Croix-Luizet",
+    "desserte":"T1",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"23 RUE FRANCISCO FERRER",
+    "id":35673,
+    "insee":"69275",
+    "lat":45.7747621793,
+    "lon":4.9759941532,
+    "nom":"D\u00e9cines Grand Large",
+    "desserte":"T3,T7",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"81 BOULEVARD DU PARC D ARTILLERIE",
+    "id":47290,
+    "insee":"69387",
+    "lat":45.7297069845,
+    "lon":4.8435829545,
+    "nom":"Challemel Lacour Artill.",
+    "desserte":"T6",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"31 COURS TOLSTOI",
+    "id":47000,
+    "insee":"69266",
+    "lat":45.7637779645,
+    "lon":4.8729730577,
+    "nom":"Instit. Art Contemporain",
+    "desserte":"TB11",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"2 BOULEVARD LENINE",
+    "id":39404,
+    "insee":"69259",
+    "lat":45.6968075887,
+    "lon":4.8617044299,
+    "nom":"Lenine - Corsiere",
+    "desserte":"T4",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"5 RUE HENRI BARBUSSE",
+    "id":47294,
+    "insee":"69388",
+    "lat":45.7310800045,
+    "lon":4.8588410646,
+    "nom":"Petite Guille",
+    "desserte":"T6",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"999 PLACE ANATOLE FRANCE",
+    "id":48137,
+    "insee":"69149",
+    "lat":45.7143581645,
+    "lon":4.8054132549,
+    "nom":"Oullins Centre",
+    "desserte":"B",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"6 RUE ARISTIDE BRIAND",
+    "id":34392,
+    "insee":"69290",
+    "lat":45.6905099745,
+    "lon":4.9366659523,
+    "nom":"Saint-Priest Salengro",
+    "desserte":"T36",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"138 COURS TOLSTOI",
+    "id":36999,
+    "insee":"69266",
+    "lat":45.7611170342,
+    "lon":4.8842700149,
+    "nom":"Blanqui - Le Rize",
+    "desserte":"TB11",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"5 RUE OCTAVIO MEY",
+    "id":3305,
+    "insee":"69385",
+    "lat":45.7660506569,
+    "lon":4.8279184982,
+    "nom":"Gare Saint-Paul",
+    "desserte":"TB11",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"2 PLACE JULES GRANDCLEMENT",
+    "id":11322,
+    "insee":"69259",
+    "lat":45.7199450324,
+    "lon":4.8880430388,
+    "nom":"Parilly",
+    "desserte":"D,T36",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"8 ROUTE DE MIONS",
+    "id":2640,
+    "insee":"69290",
+    "lat":45.6845820305,
+    "lon":4.9475350388,
+    "nom":"Route de Mions",
+    "desserte":"T36",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"54 RUE HENON",
+    "id":30157,
+    "insee":"69384",
+    "lat":45.7792548731,
+    "lon":4.8274420217,
+    "nom":"H\u00e9non",
+    "desserte":"C",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"1 PLACE VALMY",
+    "id":30207,
+    "insee":"69389",
+    "lat":45.7747858835,
+    "lon":4.8055289734,
+    "nom":"Valmy",
+    "desserte":"D",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"36 RUE HENRI LEBRUN",
+    "id":35675,
+    "insee":"69282",
+    "lat":45.7717310254,
+    "lon":4.9989350048,
+    "nom":"Meyzieu Gare",
+    "desserte":"T3",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"4 AVENUE MAURICE THOREZ",
+    "id":39403,
+    "insee":"69259",
+    "lat":45.6998190341,
+    "lon":4.8632919119,
+    "nom":"Maurice Thorez",
+    "desserte":"T4",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"1 AVENUE JEAN CAGNE",
+    "id":39408,
+    "insee":"69259",
+    "lat":45.6937905535,
+    "lon":4.8755262596,
+    "nom":"Herriot - Cagne",
+    "desserte":"T4",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"34 COURS VITTON",
+    "id":42741,
+    "insee":"69386",
+    "lat":45.7695438651,
+    "lon":4.8534264944,
+    "nom":"Mass\u00e9na",
+    "desserte":"A",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"12 COURS FRANKLIN ROOSEVELT",
+    "id":42742,
+    "insee":"69386",
+    "lat":45.7687090532,
+    "lon":4.8444998386,
+    "nom":"Foch",
+    "desserte":"A",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"1 RUE DE LA REPUBLIQUE",
+    "id":42743,
+    "insee":"69381",
+    "lat":45.7673172476,
+    "lon":4.8360914489,
+    "nom":"H\u00f4tel de Ville L. Pradel",
+    "desserte":"A,C",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"94 AVENUE DEBOURG",
+    "id":46160,
+    "insee":"69387",
+    "lat":45.7311650184,
+    "lon":4.8346010767,
+    "nom":"Debourg",
+    "desserte":"B,T1,T6",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"0 RUE DE LA REPUBLIQUE",
+    "id":46207,
+    "insee":"69282",
+    "lat":45.7661449284,
+    "lon":5.0349748069,
+    "nom":"Meyzieu les Panettes",
+    "desserte":"T3",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"165 RUE PROFESSEUR BEAUVISAGE",
+    "id":47295,
+    "insee":"69388",
+    "lat":45.72772904,
+    "lon":4.8627529688,
+    "nom":"Beauvisage - Pressens\u00e9",
+    "desserte":"T6",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"3 RUE PROFESSEUR TAVERNIER",
+    "id":47297,
+    "insee":"69388",
+    "lat":45.7291870436,
+    "lon":4.8670729806,
+    "nom":"Beauvisage CISL",
+    "desserte":"T4,T6",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"3 BOULEVARD EDMOND MICHELET",
+    "id":47301,
+    "insee":"69388",
+    "lat":45.7330780118,
+    "lon":4.8784780219,
+    "nom":"Mermoz - Californie",
+    "desserte":"T6",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"999 CHEMIN DU GRAND REVOYET",
+    "id":48139,
+    "insee":"69204",
+    "lat":45.7012122353,
+    "lon":4.8046710439,
+    "nom":"St-Genis-Laval H\u00f4p. Sud",
+    "desserte":"B",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"158 BOULEVARD DE LA CROIX ROUSSE",
+    "id":643,
+    "insee":"69384",
+    "lat":45.7745968301,
+    "lon":4.8318211394,
+    "nom":"Croix-Rousse",
+    "desserte":"C",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"172 COURS LAFAYETTE",
+    "id":46191,
+    "insee":"69383",
+    "lat":45.7636990434,
+    "lon":4.8570379898,
+    "nom":"Part-Dieu Jules Favre",
+    "desserte":"TB11",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"52 RUE POIZAT",
+    "id":35665,
+    "insee":"69266",
+    "lat":45.7559056657,
+    "lon":4.8916174665,
+    "nom":"Gare de Villeurbanne",
+    "desserte":"T3",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"7 ALLEE DU TEXTILE",
+    "id":36394,
+    "insee":"69256",
+    "lat":45.7610254279,
+    "lon":4.9210403631,
+    "nom":"Vaulx-en-Velin La Soie",
+    "desserte":"A,T3,T7",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"50 BOULEVARD DES ETATS UNIS",
+    "id":39376,
+    "insee":"69388",
+    "lat":45.7367855079,
+    "lon":4.8617539203,
+    "nom":"Lyc\u00e9e Lumi\u00e8re",
+    "desserte":"T4",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"1 PLACE LE VISTE",
+    "id":46051,
+    "insee":"69382",
+    "lat":45.7575519594,
+    "lon":4.8332559566,
+    "nom":"Bellecour",
+    "desserte":"A,D",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"59 BOULEVARD PINEL",
+    "id":47314,
+    "insee":"69029",
+    "lat":45.7472842722,
+    "lon":4.8967215036,
+    "nom":"H\u00f4pitaux Est - Pinel",
+    "desserte":"T6",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"2 QUAI DE LA PECHERIE",
+    "id":1377,
+    "insee":"69381",
+    "lat":45.7661189718,
+    "lon":4.8306679659,
+    "nom":"La Feuill\u00e9e",
+    "desserte":"TB11",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"419 COURS EMILE ZOLA",
+    "id":1508,
+    "insee":"69266",
+    "lat":45.7648739824,
+    "lon":4.9088514256,
+    "nom":"Laurent Bonnevay",
+    "desserte":"A,TB11",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"19 COURS LAFAYETTE",
+    "id":46735,
+    "insee":"69386",
+    "lat":45.7636519724,
+    "lon":4.8443900342,
+    "nom":"Saxe - Lafayette",
+    "desserte":"TB11",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"7 RUE DU 23 AOUT 1944",
+    "id":1717,
+    "insee":"69283",
+    "lat":45.6794282363,
+    "lon":4.9491133738,
+    "nom":"Les Meuri\u00e8res",
+    "desserte":"T36",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"100 ROUTE DE LYON",
+    "id":521,
+    "insee":"69290",
+    "lat":45.7108607358,
+    "lon":4.9023577436,
+    "nom":"Cit\u00e9 Berliet",
+    "desserte":"T36",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"21 QUAI CLAUDE BERNARD",
+    "id":32105,
+    "insee":"69387",
+    "lat":45.7496527588,
+    "lon":4.8352096532,
+    "nom":"Quai Claude Bernard",
+    "desserte":"T1",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"6 RUE DE L UNIVERSITE",
+    "id":32106,
+    "insee":"69387",
+    "lat":45.7511232847,
+    "lon":4.8389601664,
+    "nom":"Rue de l'Universit\u00e9",
+    "desserte":"T1",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"1 AVENUE FRANKLIN ROOSEVELT",
+    "id":32160,
+    "insee":"69029",
+    "lat":45.7388033804,
+    "lon":4.8932502083,
+    "nom":"Desgenettes",
+    "desserte":"T2,T5,T6",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"1 RUE LEON PERRIER",
+    "id":33212,
+    "insee":"69290",
+    "lat":45.695097575,
+    "lon":4.9368536385,
+    "nom":"St-Priest H\u00f4tel de Ville",
+    "desserte":"T2",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"1 BOULEVARD EDOUARD HERRIOT",
+    "id":33213,
+    "insee":"69290",
+    "lat":45.694457784,
+    "lon":4.9406188757,
+    "nom":"Esplanade des Arts",
+    "desserte":"T2",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"1 RUE JULES FERRY",
+    "id":33215,
+    "insee":"69290",
+    "lat":45.6946924601,
+    "lon":4.9468602284,
+    "nom":"Saint-Priest Jules Ferry",
+    "desserte":"T2",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"28 RUE DE LA CORDIERE",
+    "id":33217,
+    "insee":"69290",
+    "lat":45.6936285592,
+    "lon":4.9496974598,
+    "nom":"Cordi\u00e8re",
+    "desserte":"T2",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"33 RUE DE LA CORDIERE",
+    "id":33219,
+    "insee":"69290",
+    "lat":45.6926200103,
+    "lon":4.9558290458,
+    "nom":"Saint-Priest Bel Air",
+    "desserte":"T2",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"0 COURS DU PROFESSEUR JEAN BERNARD",
+    "id":33222,
+    "insee":"69290",
+    "lat":45.7183995192,
+    "lon":4.9256992359,
+    "nom":"Porte des Alpes",
+    "desserte":"T2",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"1 AVENUE DU DOYENNE",
+    "id":33264,
+    "insee":"69385",
+    "lat":45.7601330383,
+    "lon":4.8265363312,
+    "nom":"Vieux Lyon Cat. St-Jean",
+    "desserte":"D",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"101 COURS CHARLEMAGNE",
+    "id":34874,
+    "insee":"69382",
+    "lat":45.7406300382,
+    "lon":4.8190024835,
+    "nom":"H\u00f4tel R\u00e9gion Montrochet",
+    "desserte":"T1,T2",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"2 AVENUE DE BEL AIR",
+    "id":35666,
+    "insee":"69266",
+    "lat":45.7583874443,
+    "lon":4.9104715574,
+    "nom":"Bel Air - Les Brosses",
+    "desserte":"T3",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"27 RUE EMILE BERTRAND",
+    "id":35670,
+    "insee":"69275",
+    "lat":45.7718152115,
+    "lon":4.9559390303,
+    "nom":"D\u00e9cines Centre",
+    "desserte":"T3,T7",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"7 COURS CHARLEMAGNE",
+    "id":34834,
+    "insee":"69382",
+    "lat":45.7470636072,
+    "lon":4.824597657,
+    "nom":"Place des Archives",
+    "desserte":"T1,T2",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"53 COURS CHARLEMAGNE",
+    "id":34836,
+    "insee":"69382",
+    "lat":45.7441886815,
+    "lon":4.8221452299,
+    "nom":"Sainte-Blandine",
+    "desserte":"T1,T2",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"0 AVENUE MARCEL HOUEL",
+    "id":39393,
+    "insee":"69259",
+    "lat":45.6964752126,
+    "lon":4.8845906502,
+    "nom":"M. Hou\u00ebl H\u00f4tel de Ville",
+    "desserte":"T4",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"12 AVENUE D OSCHATZ",
+    "id":39394,
+    "insee":"69259",
+    "lat":45.6949535922,
+    "lon":4.879845378,
+    "nom":"Lyc\u00e9e Jacques Brel",
+    "desserte":"T4",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"19 AVENUE JEAN CAGNE",
+    "id":39398,
+    "insee":"69259",
+    "lat":45.6960111659,
+    "lon":4.8720532185,
+    "nom":"Venissy Frida Kahlo",
+    "desserte":"T4",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"4 AVENUE JEAN CAGNE",
+    "id":39400,
+    "insee":"69259",
+    "lat":45.6984436248,
+    "lon":4.8682421697,
+    "nom":"Division Leclerc",
+    "desserte":"T4",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"22 RUE DE LA REPUBLIQUE",
+    "id":42744,
+    "insee":"69382",
+    "lat":45.7634695348,
+    "lon":4.8358908893,
+    "nom":"Cordeliers",
+    "desserte":"A,TB11",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"54 AVENUE FRANCOIS MITTERRAND",
+    "id":45261,
+    "insee":"69029",
+    "lat":45.7380526351,
+    "lon":4.9221514676,
+    "nom":"Lycee J.P. Sartre",
+    "desserte":"T5",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"8 AVENUE FRANCOIS MITTERRAND",
+    "id":45262,
+    "insee":"69029",
+    "lat":45.7389816727,
+    "lon":4.9266455042,
+    "nom":"Parc du Ch\u00eane",
+    "desserte":"T5",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"58 AVENUE MARECHAL DE LATTRE DE TASSIGNY",
+    "id":45265,
+    "insee":"69029",
+    "lat":45.7357860081,
+    "lon":4.9170610085,
+    "nom":"De Tassigny - Curial",
+    "desserte":"T5",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"0 BOULEVARD DE L EUROPE",
+    "id":45268,
+    "insee":"69271",
+    "lat":45.7320678531,
+    "lon":4.9479462368,
+    "nom":"Eurexpo Entr\u00e9e Princ.",
+    "desserte":"T5",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"4 AVENUE ROCKEFELLER",
+    "id":45270,
+    "insee":"69388",
+    "lat":45.7424585984,
+    "lon":4.8793173323,
+    "nom":"Grange Blanche",
+    "desserte":"D,T2,T5",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"11 RUE DES REMPARTS D AINAY",
+    "id":42745,
+    "insee":"69382",
+    "lat":45.7531056187,
+    "lon":4.8292538338,
+    "nom":"Amp\u00e8re - Victor Hugo",
+    "desserte":"A",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"53 RUE DE LA VILLETTE",
+    "id":45848,
+    "insee":"69383",
+    "lat":45.7612753238,
+    "lon":4.8619744342,
+    "nom":"Gare Part-Dieu Villette",
+    "desserte":"T3,T4",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"999 RUE GENERAL MOUTON DUVERNET",
+    "id":45864,
+    "insee":"69383",
+    "lat":45.75435122,
+    "lon":4.8617864688,
+    "nom":"Archives Departementales",
+    "desserte":"T4",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"9999 RUE MARIUS BERLIET",
+    "id":45869,
+    "insee":"69388",
+    "lat":45.7455973018,
+    "lon":4.8589895595,
+    "nom":"Lycee Colbert",
+    "desserte":"T4",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"999 PONT PASTEUR",
+    "id":46154,
+    "insee":"69382",
+    "lat":45.7336026106,
+    "lon":4.818878319,
+    "nom":"Mus\u00e9e des Confluences",
+    "desserte":"T1",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"999 PLACE ANTONIN PERRIN",
+    "id":46155,
+    "insee":"69387",
+    "lat":45.731723881,
+    "lon":4.8228798403,
+    "nom":"Halle Tony Garnier",
+    "desserte":"T1",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"46 AVENUE DEBOURG",
+    "id":46157,
+    "insee":"69387",
+    "lat":45.7314624419,
+    "lon":4.828847141,
+    "nom":"ENS Lyon",
+    "desserte":"T1",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"5 COURS EMILE ZOLA",
+    "id":46055,
+    "insee":"69266",
+    "lat":45.7706312689,
+    "lon":4.8642176249,
+    "nom":"Charpennes Charles Hernu",
+    "desserte":"A,B,T1,T4",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"104 COURS EMILE ZOLA",
+    "id":46056,
+    "insee":"69266",
+    "lat":45.7706521016,
+    "lon":4.8736724711,
+    "nom":"R\u00e9publique Villeurbanne",
+    "desserte":"A",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"181 COURS EMILE ZOLA",
+    "id":46057,
+    "insee":"69266",
+    "lat":45.7690826718,
+    "lon":4.8821662441,
+    "nom":"Gratte Ciel",
+    "desserte":"A",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"263 COURS EMILE ZOLA",
+    "id":46058,
+    "insee":"69266",
+    "lat":45.7676255368,
+    "lon":4.8900474084,
+    "nom":"Flachet - Alain Gilles",
+    "desserte":"A",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"355 COURS EMILE ZOLA",
+    "id":46059,
+    "insee":"69266",
+    "lat":45.7657452326,
+    "lon":4.9002749814,
+    "nom":"Cusset",
+    "desserte":"A",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"170 RUE CHALLEMEL LACOUR",
+    "id":47291,
+    "insee":"69388",
+    "lat":45.7295450326,
+    "lon":4.8531670489,
+    "nom":"Moulin \u00e0 Vent",
+    "desserte":"T6",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"106 RUE PROFESSEUR BEAUVISAGE",
+    "id":47299,
+    "insee":"69388",
+    "lat":45.7313539839,
+    "lon":4.8733979563,
+    "nom":"Grange Rouge - Santy",
+    "desserte":"T6",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"94 AVENUE JEAN MERMOZ",
+    "id":47304,
+    "insee":"69388",
+    "lat":45.7324329551,
+    "lon":4.8819220336,
+    "nom":"Mermoz - Moselle",
+    "desserte":"T6",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"13 PLACE ANDRE LATARGET",
+    "id":47305,
+    "insee":"69388",
+    "lat":45.730785955,
+    "lon":4.8868430613,
+    "nom":"Mermoz - Pinel",
+    "desserte":"D,T6",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"163 BOULEVARD PINEL",
+    "id":47307,
+    "insee":"69029",
+    "lat":45.7355520433,
+    "lon":4.8900049926,
+    "nom":"Essarts - Laennec",
+    "desserte":"T6",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"94 BOULEVARD PINEL",
+    "id":47377,
+    "insee":"69383",
+    "lat":45.7425430335,
+    "lon":4.8941270551,
+    "nom":"Vinatier",
+    "desserte":"T6",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"0 CHEMIN DU MONTOUT",
+    "id":47684,
+    "insee":"69275",
+    "lat":45.7684850313,
+    "lon":4.9814010424,
+    "nom":"D\u00e9cines OL Vall\u00e9e",
+    "desserte":"T7",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"240 COURS LAFAYETTE",
+    "id":47004,
+    "insee":"69383",
+    "lat":45.7637460107,
+    "lon":4.8634909772,
+    "nom":"Thiers - Lafayette",
+    "desserte":"T1,T4,TB11",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"169 COURS TOLSTOI",
+    "id":47007,
+    "insee":"69266",
+    "lat":45.7597080357,
+    "lon":4.8895290445,
+    "nom":"Grandcl\u00e9ment",
+    "desserte":"TB11",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"10 RUE JEAN JAURES",
+    "id":48356,
+    "insee":"69282",
+    "lat":45.7697880412,
+    "lon":5.0141859649,
+    "nom":"Meyzieu Lyc\u00e9e Beltrame",
+    "desserte":"T3",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"275 COURS LAFAYETTE",
+    "id":47030,
+    "insee":"69386",
+    "lat":45.7637970046,
+    "lon":4.8665949614,
+    "nom":"Charmettes",
+    "desserte":"TB11",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"66BIS RUE LEON BLUM",
+    "id":47120,
+    "insee":"69266",
+    "lat":45.7599610199,
+    "lon":4.8965799973,
+    "nom":"Bernaix",
+    "desserte":"TB11",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"171 RUE LEON BLUM",
+    "id":227,
+    "insee":"69266",
+    "lat":45.7606870099,
+    "lon":4.9062020194,
+    "nom":"Bon Coin - M\u00e9dip\u00f4le",
+    "desserte":"TB11",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"112 COURS TOLSTOI",
+    "id":47207,
+    "insee":"69266",
+    "lat":45.7620969687,
+    "lon":4.8804410451,
+    "nom":"Verlaine",
+    "desserte":"TB11",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"107 RUE LEON BLUM",
+    "id":47327,
+    "insee":"69266",
+    "lat":45.7603000325,
+    "lon":4.9004690002,
+    "nom":"Cyprian - L\u00e9on Blum",
+    "desserte":"TB11",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"22 RUE DE MARSEILLE",
+    "id":32108,
+    "insee":"69387",
+    "lat":45.7529141145,
+    "lon":4.8410013273,
+    "nom":"Saint-Andr\u00e9",
+    "desserte":"T1",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"342 AVENUE BERTHELOT",
+    "id":32153,
+    "insee":"69388",
+    "lat":45.7368869372,
+    "lon":4.8682314688,
+    "nom":"Bachut - Mairie du 8\u00e8me",
+    "desserte":"T2",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"31 BOULEVARD JEAN XXIII",
+    "id":32154,
+    "insee":"69388",
+    "lat":45.7401921551,
+    "lon":4.8745521549,
+    "nom":"Jean XXIII - M. Basti\u00e9",
+    "desserte":"T2",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"34 AVENUE ROCKEFELLER",
+    "id":32158,
+    "insee":"69388",
+    "lat":45.7414925136,
+    "lon":4.8839049807,
+    "nom":"Ambroise Par\u00e9",
+    "desserte":"T2,T5",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"52 AVENUE FRANKLIN ROOSEVELT",
+    "id":32162,
+    "insee":"69029",
+    "lat":45.7372056057,
+    "lon":4.8981186341,
+    "nom":"Essarts - Iris",
+    "desserte":"T2,T5",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"49 AVENUE LACASSAGNE",
+    "id":35660,
+    "insee":"69383",
+    "lat":45.7528704779,
+    "lon":4.8688129202,
+    "nom":"Dauphin\u00e9 -Lacassagne",
+    "desserte":"T3",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"5 BOULEVARD HONORE DE BALZAC",
+    "id":35662,
+    "insee":"69266",
+    "lat":45.7544967554,
+    "lon":4.8851505569,
+    "nom":"Reconnaissance - Balzac",
+    "desserte":"T3",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"50 BOULEVARD IRENE JOLIOT CURIE",
+    "id":39406,
+    "insee":"69259",
+    "lat":45.7154845408,
+    "lon":4.8783568959,
+    "nom":"Joliot-Curie - M. Sembat",
+    "desserte":"T4",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"40 BOULEVARD LENINE",
+    "id":39410,
+    "insee":"69259",
+    "lat":45.6926194132,
+    "lon":4.8642807205,
+    "nom":"Darnaise",
+    "desserte":"T4",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"1 AVENUE DU 11 NOVEMBRE 1918",
+    "id":39413,
+    "insee":"69259",
+    "lat":45.6882395427,
+    "lon":4.8651088501,
+    "nom":"H\u00f4p. Feyzin V\u00e9nissieux",
+    "desserte":"T4",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"29 AVENUE FRANKLIN ROOSEVELT",
+    "id":48358,
+    "insee":"69275",
+    "lat":45.7651890398,
+    "lon":4.9384119918,
+    "nom":"D\u00e9cines Roosevelt",
+    "desserte":"T3,T7",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"26 MONTEE SAINT SEBASTIEN",
+    "id":10787,
+    "insee":"69381",
+    "lat":45.7709213576,
+    "lon":4.8361680336,
+    "nom":"Croix-Paquet",
+    "desserte":"C",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"1 COURS GAMBETTA",
+    "id":30133,
+    "insee":"69387",
+    "lat":45.7536873837,
+    "lon":4.8469513622,
+    "nom":"Saxe - Gambetta",
+    "desserte":"B,D",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"18 RUE DE LA GARE DE CUIRE",
+    "id":30159,
+    "insee":"69034",
+    "lat":45.7852577271,
+    "lon":4.8324982991,
+    "nom":"Cuire",
+    "desserte":"C",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"10 RUE GUILLAUME PARADIN",
+    "id":30187,
+    "insee":"69388",
+    "lat":45.7387170012,
+    "lon":4.8863359467,
+    "nom":"Laennec",
+    "desserte":"D",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"100 COURS ALBERT THOMAS",
+    "id":30191,
+    "insee":"69388",
+    "lat":45.7453877037,
+    "lon":4.8718732308,
+    "nom":"Monplaisir Lumi\u00e8re",
+    "desserte":"D",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"45 COURS ALBERT THOMAS",
+    "id":30193,
+    "insee":"69383",
+    "lat":45.7477848599,
+    "lon":4.8648887605,
+    "nom":"Sans Souci",
+    "desserte":"D",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"13 COURS GAMBETTA",
+    "id":30199,
+    "insee":"69383",
+    "lat":45.7554730908,
+    "lon":4.8425741992,
+    "nom":"Guilloti\u00e8re Gabriel P\u00e9ri",
+    "desserte":"D,T1",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"57 RUE SERGENT MICHEL BERTHET",
+    "id":30205,
+    "insee":"69389",
+    "lat":45.7664328649,
+    "lon":4.8055472055,
+    "nom":"Gorge de Loup",
+    "desserte":"D",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"16 RUE DU 24 MARS 1852",
+    "id":30209,
+    "insee":"69389",
+    "lat":45.7797918749,
+    "lon":4.803853678,
+    "nom":"Gare de Vaise-G.Collomb",
+    "desserte":"D",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"43 COURS DE LA LIBERTE",
+    "id":32112,
+    "insee":"69383",
+    "lat":45.7588655711,
+    "lon":4.8424858228,
+    "nom":"Libert\u00e9",
+    "desserte":"T1",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"19 BOULEVARD MARIUS VIVIER MERLE",
+    "id":32121,
+    "insee":"69383",
+    "lat":45.7617389595,
+    "lon":4.8579100012,
+    "nom":"Gare Part-Dieu V.Merle",
+    "desserte":"B,T1",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"176 AVENUE THIERS",
+    "id":32124,
+    "insee":"69386",
+    "lat":45.7666641205,
+    "lon":4.8619682231,
+    "nom":"Coll\u00e8ge Bellecombe",
+    "desserte":"T1,T4",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"4 RUE JACQUES BREL",
+    "id":32128,
+    "insee":"69266",
+    "lat":45.7740517908,
+    "lon":4.8640495222,
+    "nom":"Le Tonkin",
+    "desserte":"T1,T4",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"11 AVENUE CONDORCET",
+    "id":32130,
+    "insee":"69266",
+    "lat":45.7779217677,
+    "lon":4.866947119,
+    "nom":"Condorcet",
+    "desserte":"T1,T4",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"8 AVENUE CLAUDE BERNARD",
+    "id":32132,
+    "insee":"69266",
+    "lat":45.7808417806,
+    "lon":4.8663093392,
+    "nom":"Universit\u00e9 Lyon 1",
+    "desserte":"T1,T4",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"3 AVENUE JEAN CAPELLE",
+    "id":32134,
+    "insee":"69266",
+    "lat":45.7814891723,
+    "lon":4.8720655774,
+    "nom":"La Doua - Gaston Berger",
+    "desserte":"T1,T4",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"1 BOULEVARD NIELS BOHR",
+    "id":32138,
+    "insee":"69266",
+    "lat":45.7868910608,
+    "lon":4.8819821405,
+    "nom":"IUT Feyssine",
+    "desserte":"T1",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"19 AVENUE BERTHELOT",
+    "id":32140,
+    "insee":"69387",
+    "lat":45.7470165459,
+    "lon":4.836314418,
+    "nom":"Centre Berthelot",
+    "desserte":"T2",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"60 AVENUE BERTHELOT",
+    "id":32142,
+    "insee":"69387",
+    "lat":45.7451158215,
+    "lon":4.8422583227,
+    "nom":"Jean Mac\u00e9",
+    "desserte":"B,T2",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"110 AVENUE BERTHELOT",
+    "id":32144,
+    "insee":"69387",
+    "lat":45.7436457033,
+    "lon":4.8468605483,
+    "nom":"Garibaldi - Berthelot",
+    "desserte":"T2",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"164 AVENUE BERTHELOT",
+    "id":32146,
+    "insee":"69387",
+    "lat":45.7421132132,
+    "lon":4.851658692,
+    "nom":"Route de Vienne",
+    "desserte":"T2",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"228 AVENUE BERTHELOT",
+    "id":32148,
+    "insee":"69388",
+    "lat":45.7398508709,
+    "lon":4.8587129212,
+    "nom":"Jet d'Eau - M. France",
+    "desserte":"T2,T4",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"291 AVENUE BERTHELOT",
+    "id":32150,
+    "insee":"69388",
+    "lat":45.7383846585,
+    "lon":4.8633027793,
+    "nom":"Villon",
+    "desserte":"T2",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"109 AVENUE FRANKLIN ROOSEVELT",
+    "id":32164,
+    "insee":"69029",
+    "lat":45.734899256,
+    "lon":4.904448438,
+    "nom":"Boutasse - C. Rousset",
+    "desserte":"T2,T5",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"150 AVENUE FRANKLIN ROOSEVELT",
+    "id":32166,
+    "insee":"69029",
+    "lat":45.7333804493,
+    "lon":4.909042648,
+    "nom":"Bron H\u00f4tel de Ville",
+    "desserte":"T2,T5",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"250 AVENUE FRANKLIN ROOSEVELT",
+    "id":32168,
+    "insee":"69029",
+    "lat":45.7315060891,
+    "lon":4.9147176562,
+    "nom":"Les Aliz\u00e9s",
+    "desserte":"T2,T5",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"30 AVENUE DU 8 MAI 1945",
+    "id":32170,
+    "insee":"69029",
+    "lat":45.7275056368,
+    "lon":4.9156462663,
+    "nom":"Rebufer",
+    "desserte":"T2",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"5 AVENUE PIERRE MENDES FRANCE",
+    "id":32172,
+    "insee":"69029",
+    "lat":45.7220875135,
+    "lon":4.9151855086,
+    "nom":"Parilly - Universit\u00e9",
+    "desserte":"T2",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"26 IMPASSE DE L HIPPODROME",
+    "id":32174,
+    "insee":"69290",
+    "lat":45.7195961753,
+    "lon":4.9181758664,
+    "nom":"Europe - Universit\u00e9",
+    "desserte":"T2",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"292 COURS DU TROISIEME MILLENAIRE",
+    "id":33203,
+    "insee":"69290",
+    "lat":45.7143627187,
+    "lon":4.9311918702,
+    "nom":"Parc Technologique",
+    "desserte":"T2",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"0 RUE DE L AVIATION",
+    "id":33205,
+    "insee":"69290",
+    "lat":45.7081470937,
+    "lon":4.9375612671,
+    "nom":"Hauts de Feuilly",
+    "desserte":"T2",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"10 AVENUE SALVADOR ALLENDE",
+    "id":33207,
+    "insee":"69290",
+    "lat":45.7034339524,
+    "lon":4.9348433516,
+    "nom":"Salvador Allende",
+    "desserte":"T2",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"43 RUE ALFRED DE VIGNY",
+    "id":33209,
+    "insee":"69290",
+    "lat":45.6996208281,
+    "lon":4.9360973326,
+    "nom":"Alfred de Vigny",
+    "desserte":"T2",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"72 BOULEVARD DES ETATS UNIS",
+    "id":39378,
+    "insee":"69388",
+    "lat":45.7329699779,
+    "lon":4.8647429004,
+    "nom":"Etats-Unis Tony Garnier",
+    "desserte":"T4",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"170 BOULEVARD DES ETATS UNIS",
+    "id":39382,
+    "insee":"69388",
+    "lat":45.7248724916,
+    "lon":4.8710391119,
+    "nom":"Etats-Unis Viviani",
+    "desserte":"T4",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"94 BOULEVARD IRENE JOLIOT CURIE",
+    "id":39386,
+    "insee":"69259",
+    "lat":45.711113972,
+    "lon":4.8821187884,
+    "nom":"La Borelle",
+    "desserte":"T4",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"56 BOULEVARD AMBROISE CROIZAT",
+    "id":39390,
+    "insee":"69259",
+    "lat":45.7000748832,
+    "lon":4.8875749835,
+    "nom":"Croizat - Paul Bert",
+    "desserte":"T4",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"87 COURS GAMBETTA",
+    "id":30445,
+    "insee":"69383",
+    "lat":45.7514669544,
+    "lon":4.854206413,
+    "nom":"Garibaldi",
+    "desserte":"D",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"2 BOULEVARD AMBROISE CROIZAT",
+    "id":30447,
+    "insee":"69259",
+    "lat":45.7055681079,
+    "lon":4.8880792261,
+    "nom":"Gare de V\u00e9nissieux",
+    "desserte":"D,T4",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"13 PLACE JULES FERRY",
+    "id":46022,
+    "insee":"69386",
+    "lat":45.766920913,
+    "lon":4.8594941391,
+    "nom":"Brotteaux",
+    "desserte":"B",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"44 RUE SERVIENT",
+    "id":32114,
+    "insee":"69383",
+    "lat":45.760086942,
+    "lon":4.8451871133,
+    "nom":"Saxe - Pr\u00e9fecture",
+    "desserte":"T1",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"64 RUE SERVIENT",
+    "id":32116,
+    "insee":"69383",
+    "lat":45.7603100194,
+    "lon":4.8484633149,
+    "nom":"Palais Justice Mairie 3e",
+    "desserte":"T1",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"114 RUE SERVIENT",
+    "id":32118,
+    "insee":"69383",
+    "lat":45.7606556456,
+    "lon":4.8538261577,
+    "nom":"Part-Dieu Auditorium",
+    "desserte":"T1",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"1 PLACE GUICHARD",
+    "id":46026,
+    "insee":"69383",
+    "lat":45.759364241,
+    "lon":4.8476509917,
+    "nom":"Place Guichard",
+    "desserte":"B",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"321 AVENUE JEAN JAURES",
+    "id":46033,
+    "insee":"69387",
+    "lat":45.727368616,
+    "lon":4.8313342487,
+    "nom":"Stade de Gerland Le LOU",
+    "desserte":"B",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"0 AVENUE DU RHONE",
+    "id":46035,
+    "insee":"69149",
+    "lat":45.7166793962,
+    "lon":4.8144923499,
+    "nom":"Gare d'Oullins",
+    "desserte":"B",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"1 RUE GENERAL MOUTON DUVERNET",
+    "id":45861,
+    "insee":"69383",
+    "lat":45.7501530845,
+    "lon":4.860301602,
+    "nom":"Manufacture Montluc",
+    "desserte":"T4",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"12 QUAI SAINT ANTOINE",
+    "id":50200,
+    "insee":"69382",
+    "lat":45.7635269873,
+    "lon":4.8319639482,
+    "nom":"Terrasses Presqu'\u00eele",
+    "desserte":"TB11",
+    "nbr_desserte":1
+  },
+  {
+    "adresse":"63 RUE DU CHENE",
+    "id":60002,
+    "insee":"69029",
+    "lat":45.7393579595,
+    "lon":4.9346519766,
+    "nom":"Chassieu ZAC du Ch\u00eane",
+    "desserte":"T5",
+    "nbr_desserte":1
+  }
+]
