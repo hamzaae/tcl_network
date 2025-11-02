@@ -1,4 +1,0 @@
-"""
-Constantes globales du projet
-"""
-
