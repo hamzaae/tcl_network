@@ -4,6 +4,8 @@
 
 This project models the TCL (Transports en Commun Lyonnais) public transportation network as a graph structure to enable efficient route planning and network analysis across Lyon's metros and trams systems.
 
+![network](results/figures/network_geo_view.png)
+
 ## Core Concept: Unified Stop Representation
 
 ### The Node Merging Approach
